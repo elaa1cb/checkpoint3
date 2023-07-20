@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+nav{
+    height: 10vh;
+    background-color: #0096c7;
+}
+li h1{
+    display: inline;
+}
+li{
+    display: inline;
+}
+.zina{
+    border: 2px solid black;
+    padding: 20px;
+    height: 40vh;
+}
+.imp{
+    background-color: #84a59d;
+}
+.pair{
+    background-color: #003566;
+}
+p{
+    margin-bottom: 50px;
+}
+.btn{
+    border: 1px solid black;
+    padding: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+    border-radius: 300px;
+    margin-left: 25vw;
+    background-color: aliceblue;
+}
+.btn:hover{
+    background-color: yellow;
+}
